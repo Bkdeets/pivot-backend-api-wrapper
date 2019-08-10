@@ -1,6 +1,6 @@
 import axios, { AxiosRequestConfig, AxiosPromise } from 'axios';
 
-// Backend API wrapper for Pivot
+// Backend API wrapper for Tideline
 export class Wrapper {
 
 	proxyurl = "https://cors-anywhere.herokuapp.com/";
